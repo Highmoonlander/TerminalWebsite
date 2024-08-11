@@ -30,7 +30,7 @@ const commands = {
         return `
             <div class='about' style="font-family: Arial, sans-serif; max-width: 600px; margin: 10px auto; padding: 20px; background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: center; justify-content: center;">
                 <div id="about-container" style="display: flex; align-items: center; margin-bottom: 20px;">
-                    <img id="about-image" src="resources/photo.png" alt="Arya Rajvaidya" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px; border: 3px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+                    <img id="about-image" src="photo.png" alt="Arya Rajvaidya" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px; border: 3px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
                     <div>
                         <h2 style="margin: 0; font-size: 24px; color: #2c3e50;">Arya Rajvaidya</h2>
                         <p><span style="background-color: #3498db; color: white; padding: 5px 10px; border-radius: 5px;">Java Full Stack Developer</span></p>
