@@ -45,7 +45,7 @@ const commands = {
         return `<p>Available commands:
             <i>about</i> - Display information about me
             <i>skills</i> - List my skills
-            <i>experience</i> - Show my work experience
+            <i>projects</i> - Show my work experience
             <i>education</i> - Display my educational background
             <i>contact</i> - Show my contact information
             <i>clear</i> - Clear the terminal
